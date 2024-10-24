@@ -11,7 +11,7 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Usage
 
 - Follow attatched video.
-- <iframe src="https://drive.google.com/file/d/1-D7ZL_Cz8004NQZbWmJ6BH59MVJ6eeA8/preview" width="640" height="480"></iframe>
+- (https://drive.google.com/file/d/1-D7ZL_Cz8004NQZbWmJ6BH59MVJ6eeA8/view)
 
 ## Credits
 
