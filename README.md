@@ -8,12 +8,10 @@ Provide a short description explaining the what, why, and how of your project. U
 - I learned how to use NodeJS and JavaScript together.
 
 ## Installation
-
-- Follow attatched video.
-
 ## Usage
 
-- Follow attatched video
+- Follow attatched video.
+- <iframe src="https://drive.google.com/file/d/1-D7ZL_Cz8004NQZbWmJ6BH59MVJ6eeA8/preview" width="640" height="480"></iframe>
 
 ## Credits
 
