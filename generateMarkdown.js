@@ -18,9 +18,7 @@ function renderLicenseBadge(license) {
 
   function renderLicenseSection(license) {
     if (license !== 'None') {
-      return `## License
-
-  This project is licensed under ${license}.`;
+      return `This project is licensed under ${license}.`;
     }
     return '';
   }
